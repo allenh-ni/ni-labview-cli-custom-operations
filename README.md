@@ -1,4 +1,4 @@
-# ni-labview-cli-custom-operations
+# NI LabVIEW CLI - VIPM Operations Add-On
 This add-on adds the following VIPM operations to the [NI LabVIEW Command Line Interface](http://www.ni.com/en-us/support/downloads/software-products/download.ni-labview-command-line-interface.html "NI LabVIEW CLI download"). This add-on supports LabVIEW 2014 or later.
 * VIPM Install Package File
 * VIPM Uninstall Package
