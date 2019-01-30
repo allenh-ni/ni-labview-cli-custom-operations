@@ -20,7 +20,7 @@ Run the following commands from the command-line interface.
 
 -LabVIEWVersion : Specifies the version of LabVIEW to install the VIPM package to (e.g. "17.0", "17.0 (64-bit)", "18.0", "18.0 (64-bit)", ...)
 
-### VIPMInstallPackageFile
+### VIPMUninstallPackage
 `LabVIEWCLI -OperationName VIPMUninstallPackage -PackageName <package name> -LabVIEWVersion <labview version string>`
 
 -PackageName: Specifies the name of the VIPM package to install (e.g. package_abc_api-2.5.0.0)
