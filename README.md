@@ -7,7 +7,7 @@ This add-on adds the following VIPM operations to the [NI LabVIEW Command Line I
 1. Install the [NI LabVIEW Command Line Interface](http://www.ni.com/en-us/support/downloads/software-products/download.ni-labview-command-line-interface.html "NI LabVIEW CLI download").
 Note: LabVIEW 2018 or later automatically install the NI LabVIEW CLI.  However, you can also download and install it separately, and it supports LabVIEW 2014 or later.
 2. Install the "NI LabVIEW Command Line Interface - VIPM Operations" add-on by downloading/installing the latest package (.nipkg) in the [Exports](https://github.com/allenh-ni/ni-labview-cli-custom-operations/tree/master/Exports) folder.
-3. Install the [JKI VIPM API](http://sine.ni.com/nips/cds/view/p/lang/en/nid/210804) in all versions of LabVIEW you want to support. Note: This API requires the paid VIPM Pro license.
+3. Install the [JKI VIPM API](http://sine.ni.com/nips/cds/view/p/lang/en/nid/210804) and [OpenG Libraries](http://sine.ni.com/nips/cds/view/p/lang/en/nid/209027) in all versions of LabVIEW you want to support. **Note:** The JKI VIPM API requires the paid VIPM Pro license.
 
 
 ## How to use
